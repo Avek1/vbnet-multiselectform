@@ -1,0 +1,7 @@
+﻿File Creation:
+1.  StaffAndDeptForm
+2.  MultiSelectForm
+3.  Employee class - i think it's like the Domian class in C#.
+4.  Department class - pending.
+5.  ISource - functions and methods used to interface with the datasource (sql) somehow. - in progress.
+6.  DataSource - this is where I connect with SQL.
